@@ -1,4 +1,4 @@
-# Chazen Tea Website & Inventory Management System
+# 🧋 Chazen Tea Website & Inventory Management System 🧋
 
 A full-stack e-commerce and inventory management platform developed for a mock tea retailer, **Chazen Tea**. The system enables customers to browse products, manage accounts, place orders, and track purchases, while providing administrators with tools to manage inventory, process refunds, monitor orders, and export sales reports.
 
